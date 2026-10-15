@@ -1,0 +1,223 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: projects
+    label: Project case studies
+    type: file
+    path: content/projects.json
+    format: json
+    list: true
+    fields:
+      - name: slug
+        label: URL slug
+        type: string
+        required: true
+      - name: title
+        label: Project title
+        type: string
+        required: true
+      - name: category
+        label: Design category
+        type: string
+      - name: type
+        label: Project type
+        type: string
+      - name: year
+        label: Year
+        type: string
+      - name: role
+        label: Your role
+        type: string
+      - name: scope
+        label: Scope of work
+        type: text
+      - name: tools
+        label: Tools used
+        type: string
+        list: true
+      - name: summary
+        label: Summary
+        type: text
+      - name: gallery
+        label: Gallery images (media paths or existing image keys)
+        type: image
+        list: true
+      - name: urls
+        label: Project links
+        type: string
+        list: true
+      - name: sections
+        label: Case study sections
+        type: object
+        list: true
+        fields:
+          - name: title
+            label: Section heading
+            type: string
+          - name: body
+            label: Section text
+            type: text
+  - name: work-tiles
+    label: Selected work tiles
+    type: file
+    path: content/works.json
+    format: json
+    list: true
+    fields:
+      - name: cat
+        label: Category
+        type: string
+      - name: co
+        label: Company / client
+        type: string
+      - name: slug
+        label: Project slug
+        type: string
+      - name: title
+        label: Tile title
+        type: string
+        required: true
+      - name: sub
+        label: Subtitle
+        type: string
+      - name: img
+        label: Image key or /media path
+        type: image
+      - name: feat
+        label: Featured (1 = yes)
+        type: number
+  - name: capabilities
+    label: Design capabilities
+    type: file
+    path: content/caps.json
+    format: json
+    list: true
+    fields:
+      - name: cat
+        label: Category
+        type: string
+      - name: desc
+        label: Description
+        type: text
+  - name: resume
+    label: Resume content
+    type: file
+    path: content/resume.json
+    format: json
+    fields:
+      - name: summary
+        label: Summary paragraphs
+        type: text
+        list: true
+      - name: experience
+        label: Experience
+        type: object
+        list: true
+        fields:
+          - name: role
+            label: Role
+            type: string
+          - name: org
+            label: Company
+            type: string
+          - name: when
+            label: Dates
+            type: string
+      - name: education
+        label: Education
+        type: object
+        list: true
+        fields:
+          - name: what
+            label: Qualification
+            type: string
+          - name: when
+            label: Dates
+            type: string
+      - name: languages
+        label: Languages
+        type: string
+        list: true
+      - name: phone
+        label: Phone
+        type: string
+      - name: cv
+        label: CV URL
+        type: string
+  - name: site-settings
+    label: Site settings
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: name
+        label: Display name
+        type: string
+      - name: initials
+        label: Wordmark
+        type: string
+      - name: city
+        label: Location
+        type: string
+      - name: email
+        label: Email
+        type: string
+      - name: available
+        label: Available for projects
+        type: boolean
+      - name: openLine
+        label: Show availability statement
+        type: boolean
+      - name: links
+        label: Social links
+        type: object
+        fields:
+          - name: Behance
+            label: Behance URL
+            type: string
+          - name: Pinterest
+            label: Pinterest URL
+            type: string
+          - name: Linktree
+            label: Linktree URL
+            type: string
+          - name: WhatsApp
+            label: WhatsApp URL
+            type: string
+          - name: Dribbble
+            label: Dribbble URL
+            type: string
+          - name: LinkedIn
+            label: LinkedIn URL
+            type: string
+          - name: Instagram
+            label: Instagram URL
+            type: string
+      - name: tools
+        label: Tools
+        type: string
+        list: true
+      - name: bio
+        label: Bio paragraphs
+        type: text
+        list: true
+      - name: facts
+        label: Facts
+        type: object
+        list: true
+        fields:
+          - name: label
+            label: Label
+            type: string
+          - name: value
+            label: Value
+            type: string
+      - name: portrait
+        label: Portrait URL or media path
+        type: string
+
+settings:
+  content:
+    merge: true
