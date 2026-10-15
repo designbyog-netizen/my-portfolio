@@ -1,0 +1,431 @@
+[
+  {
+    "slug": "icowebagency",
+    "title": "icowebagency",
+    "category": "Social Media Design",
+    "type": "Client",
+    "year": "2024",
+    "role": "Graphic Designer",
+    "scope": "Social media posts and promotional graphics",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Social media designs for icowebagency, a Nigerian software studio, showing client projects and explaining its services.",
+    "gallery": [
+      "c",
+      "e",
+      "g",
+      "w"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What the posts needed to achieve for the agency.]"
+      },
+      {
+        "title": "Design approach",
+        "body": "[Your reasoning: layout, type and colour, and how the series stays consistent.]"
+      },
+      {
+        "title": "Posts shown",
+        "body": "Showcase posts for Communitee, Evvy Hairs, and the agency's government and healthcare platforms, plus a service explainer."
+      }
+    ]
+  },
+  {
+    "slug": "katartizo-studios",
+    "title": "Katartizo Studios",
+    "category": "Brand Identity Design",
+    "type": "Client",
+    "year": "",
+    "role": "Graphic Designer",
+    "scope": "Logo, colour, typography, stationery, packaging and billboard applications",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Brand identity for Katartizo Studios, a creative studio for videos, podcasts, beats and voices.",
+    "gallery": [
+      "k1",
+      "k2",
+      "k9",
+      "k4",
+      "k3",
+      "k5",
+      "k8",
+      "k6",
+      "k7"
+    ],
+    "palette": [
+      "#C8FF00",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "paletteNote": "Colours as shown on the brand palette slide.",
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What the studio needed from its identity.]"
+      },
+      {
+        "title": "Logo and construction",
+        "body": "The logo is shown on dark and lime backgrounds, with its construction grid."
+      },
+      {
+        "title": "Typography",
+        "body": "The brand collage lists the typeface Punta."
+      },
+      {
+        "title": "Applications",
+        "body": "Stationery, app icon, smartwatch, bottle and billboard mockups."
+      }
+    ]
+  },
+  {
+    "slug": "decleanup-network",
+    "title": "DeCleanup Network",
+    "category": "Brand Logo Design",
+    "type": "Client",
+    "year": "",
+    "role": "Brand designer",
+    "scope": "Logo identity",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Logo identity for DeCleanup Network. [Add one sentence on what DeCleanup does and the idea behind the mark.]",
+    "gallery": [
+      "d"
+    ],
+    "palette": [
+      "#136B36",
+      "#5DB13F",
+      "#3AE76D",
+      "#9AFF7A"
+    ],
+    "paletteNote": "Colours sampled from the logo file.",
+    "urls": [
+      [
+        "DeCleanup Network on X",
+        "https://x.com/DeCleanupNet"
+      ]
+    ],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What the logo needed to communicate.]"
+      },
+      {
+        "title": "The mark",
+        "body": "An app-icon mark of a bag with a leaf, in a green gradient."
+      },
+      {
+        "title": "Design approach",
+        "body": "[Concept, exploration, colour and type choices.]"
+      }
+    ]
+  },
+  {
+    "slug": "ehmas-care",
+    "title": "Ehmas Care",
+    "category": "Brand Logo Design",
+    "type": "Client",
+    "year": "",
+    "role": "Graphic Designer",
+    "scope": "Logo identity",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Logo for Ehmas Care, a home care brand: \"home care designed for busy lives\".",
+    "gallery": [
+      "h"
+    ],
+    "palette": [
+      "#0E61A5",
+      "#FFFFFF"
+    ],
+    "paletteNote": "Colours sampled from the logo file.",
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What the brand needed to communicate.]"
+      },
+      {
+        "title": "The mark",
+        "body": "A lowercase e inside a ring of rays, with the tagline beneath the name."
+      },
+      {
+        "title": "Design approach",
+        "body": "[Concept, exploration, colour and type choices.]"
+      }
+    ]
+  },
+  {
+    "slug": "clickcart-ui",
+    "title": "ClickCart",
+    "category": "UI Design",
+    "type": "Concept",
+    "year": "",
+    "ui": true,
+    "role": "Designer",
+    "scope": "[e.g. Key screens, flow, components]",
+    "tools": [
+      "Figma"
+    ],
+    "summary": "A ClickCart interface designed in Figma, shown as interactive prototypes. [Add one sentence on the problem and intended user.]",
+    "gallery": [
+      "",
+      ""
+    ],
+    "urls": [
+      [
+        "Open Figma prototype 1",
+        "https://www.figma.com/proto/iIzMlI0btVxBqMuv0UJNNP/CLickCart-V1?node-id=970-343&p=f&viewport=-246%2C692%2C0.11&t=T6NqjSMsJRUKQFfs-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=309%3A1326&show-proto-sidebar=1&page-id=183%3A110"
+      ],
+      [
+        "Open Figma prototype 2",
+        "https://www.figma.com/proto/iIzMlI0btVxBqMuv0UJNNP/CLickCart-V1?node-id=1115-361&viewport=-525%2C213%2C0.2&t=lwknOtPjPedenmzJ-1&scaling=min-zoom&content-scaling=fixed&page-id=1059%3A683"
+      ]
+    ],
+    "sections": [
+      {
+        "title": "Practice brief",
+        "body": "[The problem and who it is for.]"
+      },
+      {
+        "title": "Main flow and layout",
+        "body": "[Walk through the key screens.]"
+      },
+      {
+        "title": "Component decisions",
+        "body": "[How you kept the interface consistent.]"
+      },
+      {
+        "title": "What I learned",
+        "body": "[Honest reflection. No research or test results unless they happened.]"
+      }
+    ]
+  },
+  {
+    "slug": "kwikpik",
+    "title": "Kwikpik",
+    "category": "Social Media Design",
+    "type": "Client",
+    "year": "2024 – 2026",
+    "role": "Graphic Designer",
+    "scope": "Social media design",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Social media designs for Kwikpik, a bill payment and delivery app.",
+    "gallery": [
+      "kp1",
+      "kp2",
+      "kp3",
+      "kp4",
+      "kp5",
+      "kp6",
+      "kp7"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What Kwikpik needed from its social media.]"
+      },
+      {
+        "title": "Work shown",
+        "body": "Seven posts covering bill payments, app features, a cable TV prompt and small-business support."
+      }
+    ]
+  },
+  {
+    "slug": "gearup",
+    "title": "GearUp",
+    "category": "Social Media Design",
+    "type": "Client",
+    "year": "2024 – Present",
+    "role": "Graphic Designer",
+    "scope": "Social media design",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Social media designs for GearUp, a camera and gear rental platform.",
+    "gallery": [
+      "gu1",
+      "gu2",
+      "gu3",
+      "gu4",
+      "gu5",
+      "gu6",
+      "gu7"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What GearUp needed from its social media.]"
+      },
+      {
+        "title": "Work shown",
+        "body": "Seven posts: World Photography Day, a tag-a-creator prompt, a monthly greeting, a Visual Intelligence session announcement, a first-rental discount, a gear-rental message and a beginner camera carousel cover."
+      }
+    ]
+  },
+  {
+    "slug": "bitsave",
+    "title": "Bitsave",
+    "category": "Social Media Design",
+    "type": "Client",
+    "year": "2023 – Present",
+    "role": "Lead Designer",
+    "scope": "Social media design",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Social media designs for Bitsave, a crypto savings protocol.",
+    "gallery": [
+      "bs1",
+      "bs2",
+      "bs3",
+      "bs4",
+      "bs5",
+      "bs6",
+      "bs7",
+      "bs8",
+      "bs9",
+      "bs10",
+      "bs11"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What Bitsave needed from its social media.]"
+      },
+      {
+        "title": "Work shown",
+        "body": "Eleven posts: product explainers and FAQs, monthly and seasonal posts (June, July and Father's Day) and savings-goal messages."
+      }
+    ]
+  },
+  {
+    "slug": "creaitz",
+    "title": "Creaitz",
+    "category": "Social Media Design",
+    "type": "Client",
+    "year": "2023 – Present",
+    "role": "Graphic Designer",
+    "scope": "Social media design",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Social media designs for Creaitz, a community for digital creators that runs free classes and workshops.",
+    "gallery": [
+      "cz1",
+      "cz2",
+      "cz3",
+      "cz4",
+      "cz5",
+      "cz6",
+      "cz7",
+      "cz8"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What Creaitz needed from its social media.]"
+      },
+      {
+        "title": "Work shown",
+        "body": "Eight posts covering free classes and workshops, a Product School and a career accountability programme, International Women's Day, a perks campaign, a Uganda community launch and a TGIF post."
+      }
+    ]
+  },
+  {
+    "slug": "rewind-poster",
+    "title": "Rewind: The Y2K Experience",
+    "category": "Poster Design",
+    "type": "Client",
+    "year": "",
+    "role": "Graphic Designer",
+    "scope": "Event poster",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Event poster for Rewind: The Y2K Experience, presented by Afrovibe x Vibe HQ.",
+    "gallery": [
+      "rw"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What the poster needed to achieve.]"
+      },
+      {
+        "title": "Design approach",
+        "body": "A Y2K-themed poster with 3D lettering, retro props and a three-act lineup."
+      }
+    ]
+  },
+  {
+    "slug": "brand-ads",
+    "title": "Brand advertising",
+    "category": "Advertising & Campaign Design",
+    "type": "Concept",
+    "year": "",
+    "role": "Graphic Designer",
+    "scope": "Advertising visuals",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Self-initiated advertising concepts for Doritos, Red Bull and Nivea.",
+    "gallery": [
+      "dr",
+      "rb",
+      "nv"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "Self-initiated concepts, not client work."
+      },
+      {
+        "title": "Work shown",
+        "body": "Three advertising visuals for well-known consumer brands."
+      }
+    ]
+  },
+  {
+    "slug": "karlagod-cover-art",
+    "title": "KarlaGod cover art",
+    "category": "Music Cover Art",
+    "type": "Client",
+    "year": "",
+    "role": "Graphic Designer",
+    "scope": "Single cover artwork",
+    "tools": [
+      "[Tools used]"
+    ],
+    "summary": "Cover artwork for KarlaGod: Heaven Rejoices, and Run My Life featuring Epic.",
+    "gallery": [
+      "hr",
+      "rl"
+    ],
+    "urls": [],
+    "sections": [
+      {
+        "title": "Brief / objective",
+        "body": "[What each cover needed to communicate.]"
+      },
+      {
+        "title": "Work shown",
+        "body": "Two cover artworks, each designed as a square release image."
+      }
+    ]
+  }
+]
