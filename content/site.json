@@ -1,0 +1,43 @@
+{
+  "name": "Godday Obakpolor Abimbola",
+  "initials": "designbyog",
+  "city": "Lagos, Nigeria",
+  "email": "designbyog4@gmail.com",
+  "available": true,
+  "openLine": true,
+  "links": {
+    "Behance": "https://www.behance.net/designbyog",
+    "Pinterest": "https://www.pinterest.com/designbyog",
+    "Linktree": "https://linktr.ee/designbyog4",
+    "WhatsApp": "https://wa.me/2348160748542",
+    "Dribbble": "",
+    "LinkedIn": "",
+    "Instagram": ""
+  },
+  "tools": [
+    "Photoshop",
+    "Illustrator",
+    "Figma",
+    "Lightroom",
+    "InDesign"
+  ],
+  "bio": [
+    "I'm a Brand & Graphic Designer passionate about creating clean, impactful visuals that help businesses stand out.",
+    "I enjoy turning ideas into strong brand identities, engaging social media content, and marketing materials that connect with audiences. With experience working with startups and growing brands, I combine creativity and attention to detail to deliver designs that are both visually appealing and purpose-driven."
+  ],
+  "facts": [
+    [
+      "Based in",
+      "Lagos, Nigeria"
+    ],
+    [
+      "Education",
+      "B.Sc Computer Science, Ambrose Alli University"
+    ],
+    [
+      "Languages",
+      "English"
+    ]
+  ],
+  "portrait": ""
+}
