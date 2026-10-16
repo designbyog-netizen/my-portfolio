@@ -84,7 +84,7 @@ content:
         type: string
       - name: img
         label: Image key or /media path
-        type: image
+        type: string
       - name: feat
         label: Featured (1 = yes)
         type: number
